@@ -27,6 +27,7 @@ A Python-based Signal bot that manages community group access through automated 
 2. **Install required Python packages:**
 ```bash
 pip install requests websocket-client
+pip install signalbot
 ```
 
 3. **Set up signal-cli-rest-api:**
